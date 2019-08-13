@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56852" started-at="2019-08-13T03:31:27Z" finished-at="2019-08-13T03:32:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56852" started-at="2019-08-13T03:31:27Z" finished-at="2019-08-13T03:32:24Z">
+      <class name="com.ee.EETest01">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.ee.EETest01@28d25987]" name="beforeClass" is-config="true" duration-ms="12194" started-at="2019-08-13T03:31:27Z" finished-at="2019-08-13T03:31:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="addABooking()[pri:0, instance:com.ee.EETest01@28d25987]" name="addABooking" duration-ms="39154" started-at="2019-08-13T03:31:40Z" finished-at="2019-08-13T03:32:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addABooking -->
+        <test-method status="PASS" signature="removeABooking()[pri:0, instance:com.ee.EETest01@28d25987]" name="removeABooking" duration-ms="4824" started-at="2019-08-13T03:32:19Z" finished-at="2019-08-13T03:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeABooking -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ee.EETest01@28d25987]" name="afterClass" is-config="true" duration-ms="652" started-at="2019-08-13T03:32:24Z" finished-at="2019-08-13T03:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ee.EETest01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
