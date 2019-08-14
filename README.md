@@ -7,8 +7,8 @@ This project is developed in Eclipse using Selenium, TestNG and Maven.
     - Download the latest Git. Clone this repo to your local machine.
     - cd to the root of the project directory
     - Download the latest Apache maven. Ensure you setup your system environment variable. In the command-line, execute the following commands to execute the tests:
-       >> mvn clean
-       >> mvn test
+       * mvn clean
+       * mvn test
 2) Test Reports
   - Test reports can be found in the repo after maven test: 
   .\hotelbookrepo\hotelbooking\target\surefire-reports
